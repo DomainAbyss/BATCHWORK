@@ -1,5 +1,5 @@
 @echo off
-title Script Menu Keren v1.0
+title BATCH MENU
 cls
 
 :menu
